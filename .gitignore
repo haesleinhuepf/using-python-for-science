@@ -1,3 +1,5 @@
 *.swo
 *.swp
 using-python-for-science/_build
+/venv
+/.idea
