@@ -3,3 +3,4 @@
 using-python-for-science/_build
 /venv
 /.idea
+*/.ipynb_checkpoints/*
